@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="365 105 790 575" fill="none">
+  <!-- Murmure - picto + contour pilule -->
+  <rect x="390" y="125" width="740" height="535" rx="200" fill="none" stroke="#232B33" stroke-width="26"/>
+  <g fill="#232B33">
+    <rect x="470" y="257" width="84" height="272" rx="22"/>
+    <rect x="594" y="198" width="84" height="388" rx="22"/>
+    <rect x="718" y="254" width="84" height="146" rx="22"/>
+    <rect x="842" y="198" width="84" height="388" rx="22"/>
+    <rect x="966" y="264" width="84" height="256" rx="22"/>
+  </g>
+</svg>

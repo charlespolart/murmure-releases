@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 200">
+  <!-- Murmure - texte seul -->
+  <text x="650" y="150"
+        text-anchor="middle"
+        font-family="Montserrat, 'Century Gothic', 'Poppins', 'Helvetica Neue', Arial, sans-serif"
+        font-size="150"
+        font-weight="500"
+        letter-spacing="34"
+        fill="#232B33">MURMURE</text>
+</svg>

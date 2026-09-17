@@ -1,6 +1,13 @@
-# Murmure
+<p align="center">
+  <img src="assets/murmure-logo-pill.svg" alt="Murmure" height="120"><br><br>
+  <img src="assets/murmure-text.svg" alt="murmure" height="40">
+</p>
 
-**Local, offline voice dictation for Mac.** Press a key, talk, release: your words are typed where your cursor is. Everything runs on your Mac — the audio never leaves it.
+<p align="center"><b>Local, offline voice dictation for macOS (Apple Silicon).</b></p>
+
+---
+
+Press a key, talk, release: your words are typed where your cursor is. Everything runs on your Mac — **the audio never leaves it**.
 
 [**Download the latest version (DMG)**](https://github.com/charlespolart/murmure-releases/releases/latest/download/Murmure.dmg) · [All releases](https://github.com/charlespolart/murmure-releases/releases) · [Release notes](CHANGELOG.md)
 
