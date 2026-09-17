@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Murmure</title>
-    <link>https://charlespolart.github.io/murmure-releases/appcast.xml</link>
+    <link>https://raw.githubusercontent.com/charlespolart/murmure-releases/master/appcast.xml</link>
     <description>Mises a jour de Murmure.</description>
       <item>
       <title>Version 0.2.0</title>
