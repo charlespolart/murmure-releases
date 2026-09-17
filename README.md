@@ -49,7 +49,3 @@ Update feed (Sparkle appcast): `https://raw.githubusercontent.com/charlespolart/
 ## Problems and feedback
 
 Open an issue in this repository, or write to the author via [charlespolart.com](https://charlespolart.com).
-
----
-
-*Murmure — dictée vocale locale et hors ligne pour Mac. Téléchargez le DMG ci-dessus ; les notes de version sont disponibles en français dans [CHANGELOG.md](CHANGELOG.md). Les mises à jour sont vérifiées chaque jour et proposées discrètement dans la barre des menus.*
