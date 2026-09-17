@@ -4,5 +4,16 @@
     <title>Murmure</title>
     <link>https://charlespolart.github.io/murmure-releases/appcast.xml</link>
     <description>Mises a jour de Murmure.</description>
+      <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Thu, 17 Sep 2026 02:05:37 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description xml:lang="en"><![CDATA[<h3>New features</h3><ul><li>The bottom pill unfolds into the style menu on hover; the menu opens with intent (a short pause), never on a quick mouse pass.</li><li>Release notes are shown after every update, and available from About.</li><li>Updates are detected in the background and signaled discreetly (menu bar dot, menu item, short notice).</li></ul><h3>Fixes</h3><ul><li>No more ghost menu when switching desktops quickly.</li><li>The style menu no longer went dead on some desktops.</li></ul>]]></description>
+      <description xml:lang="fr"><![CDATA[<h3>Nouveautés</h3><ul><li>La pastille se déploie elle-même en menu au survol ; le menu s&#x27;ouvre avec intention (courte pause), jamais au simple passage de la souris.</li><li>Les nouveautés s&#x27;affichent après chaque mise à jour, et restent consultables depuis « À propos ».</li><li>Les mises à jour sont détectées en arrière-plan et signalées discrètement (point sur l&#x27;icône, item de menu, courte notice).</li></ul><h3>Corrections</h3><ul><li>Plus d&#x27;image fantôme du menu lors des changements de bureau rapides.</li><li>Le menu de styles ne restait plus inerte sur certains bureaux.</li></ul>]]></description>
+      <description xml:lang="zh-Hans"><![CDATA[<h3>新功能</h3><ul><li>底部胶囊在悬停时自行展开为样式菜单；菜单需要短暂停留才会打开，鼠标快速掠过不会触发。</li><li>每次更新后显示新功能说明，并可随时在“关于”中查看。</li><li>在后台检测更新并以不打扰的方式提示（菜单栏小圆点、菜单项、简短提示）。</li></ul><h3>修复</h3><ul><li>快速切换桌面时不再出现菜单残影。</li><li>样式菜单在某些桌面上不再失效。</li></ul>]]></description>
+      <description xml:lang="zh-Hant"><![CDATA[<h3>新功能</h3><ul><li>底部膠囊在懸停時自行展開為樣式選單；選單需要短暫停留才會開啟，滑鼠快速掠過不會觸發。</li><li>每次更新後顯示新功能說明，並可隨時在「關於」中查看。</li><li>在背景偵測更新並以不打擾的方式提示（選單列小圓點、選單項目、簡短提示）。</li></ul><h3>修復</h3><ul><li>快速切換桌面時不再出現選單殘影。</li><li>樣式選單在某些桌面上不再失效。</li></ul>]]></description>      <enclosure url="https://github.com/charlespolart/murmure-releases/releases/download/v0.2.0/Murmure-0.2.0.zip" sparkle:edSignature="XpeNyc6YaCq2hxJKyiAhrCGOxN9C6aYYmznmGgywzY6uJAQUDA7Oak3UZIaBWpoJ7uOTslZcGQxoDgT+U+B0Dg==" length="10444531" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
